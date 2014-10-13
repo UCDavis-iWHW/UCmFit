@@ -1,0 +1,3 @@
+dependencies: \
+  /Users/chrisstover/Downloads/MotionActivityDemoIntegratingMotionActivityintoyourapp/MotionActivityDemo/AAPLMotionActivityQuery.m \
+  /Users/chrisstover/Downloads/MotionActivityDemoIntegratingMotionActivityintoyourapp/MotionActivityDemo/AAPLMotionActivityQuery.h

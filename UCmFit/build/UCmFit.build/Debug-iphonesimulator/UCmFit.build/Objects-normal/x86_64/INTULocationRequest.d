@@ -1,0 +1,4 @@
+dependencies: \
+  /Users/chrisstover/Downloads/MotionActivityDemoIntegratingMotionActivityintoyourapp/MotionActivityDemo/INTU/INTULocationRequest.m \
+  /Users/chrisstover/Downloads/MotionActivityDemoIntegratingMotionActivityintoyourapp/MotionActivityDemo/INTU/INTULocationRequest.h \
+  /Users/chrisstover/Downloads/MotionActivityDemoIntegratingMotionActivityintoyourapp/MotionActivityDemo/INTU/INTULocationRequestDefines.h
